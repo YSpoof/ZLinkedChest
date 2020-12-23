@@ -1,0 +1,9 @@
+{
+  "name": "zlinkedchest",
+  "version": "0.0.1",
+  "title": "ZLinkedChest",
+  "author": "N0TZ3R0",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod adds an easy recipe to the linked-chest"
+}
