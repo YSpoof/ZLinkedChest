@@ -34,6 +34,7 @@ data:extend(
         },
 	prerequisites = 
 	{
+	"logistic-robotics", "chemical-science-pack", "logistic-science-pack"	
 	},
         unit = {
             count = 100,

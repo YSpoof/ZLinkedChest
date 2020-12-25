@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2020.12.25
+  Info:
+    - Make changelog working in-game.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2020.12.25
+  Changes:
+    - Added the missing technology requisites such as:
+      - Automation Science Pack.
+      - Chemical Science Pack.
+      - Logistics Robots.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2020.12.24
+  Info:
+    - First Release.
